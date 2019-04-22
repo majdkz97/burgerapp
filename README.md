@@ -1,6 +1,9 @@
 # burgerapp
 
-A new Flutter project.
+A new Flutter project By Majd Kazmomz.
+
+You Can Test it By Install "app--release.apk"
+
 
 ## Getting Started
 
